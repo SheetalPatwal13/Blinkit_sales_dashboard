@@ -1,120 +1,75 @@
-📊 Blinkit Sales Analysis – Power BI Project
-📌 Project Overview
+# 📊 Blinkit Sales Analysis – Power BI Project
 
-This Power BI project analyzes Blinkit sales data to uncover key business insights related to product performance, outlet efficiency, and sales distribution. The dashboard helps stakeholders understand how sales vary by fat content, item type, and outlet characteristics, enabling data-driven decision-making.
+## 📌 Project Overview
+This Power BI project analyzes **Blinkit sales data** to uncover key business insights related to product performance, outlet efficiency, and sales distribution. The dashboard enables stakeholders to understand sales patterns by **fat content, item type, and outlet characteristics** for better decision-making.
 
-🎯 Project Objectives
+---
 
-Analyze total sales across different product categories
+## 🎯 Project Objectives
+- Analyze total sales across different product categories  
+- Compare sales performance based on fat content  
+- Evaluate outlet-wise sales trends  
+- Generate actionable business insights through interactive dashboards  
 
-Compare sales performance based on fat content
+---
 
-Evaluate outlet-wise sales trends
+## 🛠 Tools & Technologies
+- Power BI Desktop  
+- Power Query (ETL & Data Cleaning)  
+- DAX (Data Analysis Expressions)  
+- Data Modeling  
+- Interactive Visualizations  
 
-Generate actionable business insights using interactive dashboards
+---
 
-🛠 Tools & Technologies
+## 🔄 Project Workflow
+1. Requirement Gathering  
+2. Data Walkthrough  
+3. Data Connection  
+4. Data Cleaning  
+5. Data Modeling  
+6. Data Processing  
+7. DAX Calculations  
+8. Dashboard Layout Design  
+9. Chart Development  
+10. Dashboard & Report Development  
+11. Insight Generation  
 
-Power BI Desktop
+---
 
-Power Query (Data Cleaning & Transformation)
+## 📈 Key Business Questions Answered
 
-DAX (Calculated Measures)
+- **Total Sales by Fat Content**  
+- **Total Sales by Item Type**  
+- **Fat Content by Outlet for Total Sales**  
+- **Total Sales by Outlet Establishment Year**
 
-Data Modeling
+---
 
-Interactive Visualizations
+## 📊 Dashboard Highlights
+- Interactive slicers for dynamic filtering  
+- Clean and user-friendly dashboard layout  
+- Multiple visualizations including bar charts, donut charts, and trend analysis  
+- Business-focused KPIs for quick insights  
 
-🔄 Project Workflow / Steps Followed
+---
 
-Requirement Gathering
+## 💡 Insights Generated
+- Regular fat items contribute higher sales compared to low-fat products  
+- Certain item types are top contributors to overall revenue  
+- Sales performance varies significantly by outlet type  
+- Older outlets show more consistent and stable sales trends  
 
-Identified key business questions and KPIs
+---
 
-Data Walkthrough
+## 📂 Project File
+- **Power BI File:** `blinkit_project.pbix`
 
-Understood dataset structure, columns, and metrics
+---
 
-Data Connection
+## 🚀 Conclusion
+This project showcases hands-on experience in **data cleaning, transformation, modeling, DAX calculations, and Power BI dashboard development**. The analysis helps stakeholders understand sales performance and supports data-driven business decisions.
 
-Imported data into Power BI
+---
 
-Data Cleaning
-
-Removed duplicates, handled missing values, standardized data
-
-Data Modeling
-
-Created relationships between tables
-
-Data Processing
-
-Transformed data for analytical use
-
-DAX Calculations
-
-Created measures for total sales and aggregations
-
-Dashboard Layout
-
-Designed user-friendly dashboard structure
-
-Chart Development
-
-Built visuals such as bar charts, donut charts, and trend analysis
-
-Dashboard & Report Development
-
-Integrated all visuals into a cohesive report
-
-Insight Generation
-
-Derived meaningful insights for business decisions
-
-📈 Key Analysis & KPIs
-
-The dashboard answers the following business questions:
-
-Total Sales by Fat Content
-
-Comparison between Low Fat and Regular items
-
-Total Sales by Item Type
-
-Identifies top-performing product categories
-
-Fat Content by Outlet for Total Sales
-
-Outlet-wise contribution of fat content to sales
-
-Total Sales by Outlet Establishment Year
-
-Sales trend based on outlet establishment timeline
-
-📊 Dashboard Features
-
-Interactive slicers for better filtering
-
-Clean and structured layout
-
-Easy-to-understand visual insights
-
-Business-focused KPIs
-
-💡 Insights Generated
-
-Certain item types contribute significantly to overall sales
-
-Regular fat items generate higher sales compared to low-fat products
-
-Sales performance varies notably across outlet types and establishment years
-
-Older outlets tend to show more stable sales trends
-
-📂 Project File
-
-Power BI File: blinkit_project.pbix
-
-🚀 Conclusion
-
-This Power BI project demonstrates strong skills in data cleaning, modeling, DAX, and dashboard development. It provides clear insights into Blinkit’s sales performance and supports data-driven strategic decisions.
+⭐ If you found this project helpful, feel free to star the repository!
